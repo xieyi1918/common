@@ -1,0 +1,9 @@
+# Java VM option parameters
+dev_jvm_option_Xms_size=2048m
+dev_jvm_option_Xmx_size=2048m
+
+qa_jvm_option_Xms_size=2048m
+qa_jvm_option_Xmx_size=2048m
+
+prd_jvm_option_Xms_size=4096m
+prd_jvm_option_Xmx_size=4096m
