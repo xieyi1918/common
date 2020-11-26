@@ -21,6 +21,7 @@
         <module>common-bean</module>
         <module>email</module>
         <module>date</module>
+        <module>ftp-client</module>
     </modules>
 
     <parent>
@@ -54,6 +55,11 @@
             <artifactId>lombok</artifactId>
             <version>1.18.8</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.5</version>
         </dependency>
     </dependencies>
 
