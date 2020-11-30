@@ -4,6 +4,6 @@ public class ResetHandler implements EventHandler<ObjectEvent> {
 
     @Override
     public void onEvent(ObjectEvent event, long l, boolean b) {
-        event.clear();
+//        event.clear();
     }
 }
